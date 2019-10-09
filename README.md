@@ -1,37 +1,22 @@
-## Welcome to My Blog
+Jekyll博客模板
+================
 
-You can use the [editor on GitHub](https://github.com/MoonBrillante/moonbrillante.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### 1.浏览
+http://www.panxw.com, 支持PC与智能机访问。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2.模板使用
+修改_config.yml与_includes目录下相关文件进行配置。  
+模板可任意使用，但请保留本站**友情链接**。  
 
-### Markdown
+#### 3.联系作者
+Email: winfirm(#)163.com  
+QQ交流群: 168563980  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 4.赞助
+想给作者予以鼓励？欢迎打赏吧。  
+支付宝:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_alipay.jpg"/>
 
-```markdown
-Syntax highlighted code block
+微信:  
+<img width="200" height="200" src="http://o83o7w0hk.bkt.clouddn.com//donate_qr/donate_weixin.jpg"/>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MoonBrillante/moonbrillante.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
