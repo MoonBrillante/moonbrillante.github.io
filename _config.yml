@@ -11,7 +11,7 @@ url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
 ["leetcode","Leetcode practice","/posts/android.html"], 
-["python crawling","python crawling","/posts/program.html"],
+["python crawling","ython crawling","/posts/program.html"],
 ["ETL", "ETL","/posts/web.html"], 
 ["machine learniing","Machine Learning","/posts/linux.html"],
 ["big data","Big Data","/posts/read.html"], 
