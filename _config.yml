@@ -10,13 +10,13 @@ name: "潘学文个人博客"
 url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
-["leetcode","Leetcode刷题","/posts/android.html"], 
+["leetcode","Leetcode practice","/posts/android.html"], 
 ["python crawling","python crawling","/posts/program.html"],
-["ETL", "ETL笔记","/posts/web.html"], 
-["machine learniing", "Machine Learning机器学习","/posts/linux.html"],
+["ETL", "ETL","/posts/web.html"], 
+["machine learniing", "Machine Learning","/posts/linux.html"],
 ["big data", "Big Data","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
-["about", "关于","/about.html"]
+["other", "Others","/posts/other.html"],
+["about", "About","/about.html"]
 ]
 
 paginate: 8
