@@ -10,8 +10,8 @@ name: "潘学文个人博客"
 url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
-["leetcode", "Leetcode刷题","/posts/android.html"], 
-["python crawling", "python crawling","/posts/program.html"],
+["leetcode","Leetcode刷题","/posts/android.html"], 
+["python crawling","python crawling","/posts/program.html"],
 ["ETL", "ETL笔记","/posts/web.html"], 
 ["machine learniing", "Machine Learning机器学习","/posts/linux.html"],
 ["big data", "Big Data","/posts/read.html"], 
