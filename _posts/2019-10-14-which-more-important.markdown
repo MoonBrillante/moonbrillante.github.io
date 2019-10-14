@@ -2,7 +2,11 @@
 layout: post
 category: "read"
 title:  "Leetcode practice"
+<<<<<<< HEAD:_posts/2010-01-01-which-more-important.markdown
 tags: [code practice]
+=======
+tags: [Leetcode]
+>>>>>>> 181ec57ee753c2035fff83d9e58fbcf5d9c969dc:_posts/2019-10-14-which-more-important.markdown
 ---
 ### 从排序数组中删除重复项
 
