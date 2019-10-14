@@ -7,8 +7,8 @@ github: panxw
 author: ""
 email: 
 name: "My Blog"
-url: https://moonbrillante.github.io/
-domain: https://moonbrillante.github.io/
+url: moonbrillante.github.io
+domain: moonbrillantegithub.io
 all_categories: [
 ["leetcode","Leetcode practice","/posts/android.html"], 
 ["python crawling","Python crawling","/posts/program.html"],
