@@ -21,7 +21,7 @@ all_categories: [
 
 paginate: 8
 paginate_path: "posts/page:num"
-timezone: America/Los_Angeles
+timezone: Europe/Madrid
 
 collections:
   docs:
