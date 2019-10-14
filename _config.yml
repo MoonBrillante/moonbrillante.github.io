@@ -8,7 +8,7 @@ author: ""
 email: 
 name: "My Blog"
 url: moonbrillante.github.io
-domain: moonbrillantegithub.io
+domain: moonbrillante.github.io
 all_categories: [
 ["leetcode","Leetcode practice","/posts/android.html"], 
 ["python crawling","Python crawling","/posts/program.html"],
