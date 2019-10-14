@@ -1,7 +1,7 @@
 ---
 layout: post
-category: "read"
-title:  "Leetcode practice"
+category: "Leetcode practice"
+title:  "从排序数组中删除重复项"
 <<<<<<< HEAD:_posts/2010-01-01-which-more-important.markdown
 tags: [code practice]
 =======
