@@ -2,15 +2,6 @@
 layout: post
 category: "leetcode"
 title:  "从排序数组中删除重复项"
-<<<<<<< HEAD:_posts/2010-01-01-remove-duplicate-elements.markdown
-tags: [Leetcode]
->>>>>>> 181ec57ee753c2035fff83d9e58fbcf5d9c969dc:_posts/2019-10-14-remove-duplicate-elements.markdown
----
-
----
-layout: post
-category: "etl"
-title:  "人生什么更重要？[测试]"
 tags: [阅读,人生]
 ---
 ### 从排序数组中删除重复项
