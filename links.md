@@ -7,9 +7,9 @@ tags: [链接,友情,交换]
 本站只换首页链接，交换请做好本站链接后留言！  
 本站链接：
 
->站名：潘学文博客  
->网址：http://www.panxw.com  
->说明：潘学文个人博客  
+>站名：我的博客  
+>网址：http://moonbrillante.github.io  
+>说明：我的博客  
 
 留言格式参考本站链接，谢谢!
 
@@ -30,12 +30,12 @@ tags: [链接,友情,交换]
 </a>
 </li>
 <li>
-<a href="http://blog.jobbole.com/">
-  Jobbole
+<a href="http://www.leetcode.com/">
+  leetcode
 </a>
 </li>
 <li>
-<a href="http://99u.com/">
-  99U
+<a href="http://www.w3c.org/">
+  W3C
 </a>
 </li>
