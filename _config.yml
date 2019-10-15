@@ -21,7 +21,7 @@ all_categories: [
 ["website","Website","/posts/web.html"],
 ["other","Others","/posts/other.html"],
 ["about","About","/about.html"],
-
+]
 paginate: 8
 paginate_path: "posts/page:num"
 timezone: Europe/Madrid
