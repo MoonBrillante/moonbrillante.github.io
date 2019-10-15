@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "Leetcode"
+category: "leetcode"
 title:  "从排序数组中删除重复项"
 <<<<<<< HEAD:_posts/2010-01-01-remove-duplicate-elements.markdown
 tags: [code practice]
