@@ -10,7 +10,7 @@ name: "My Blog"
 url: moonbrillante.github.io
 domain: moonbrillante.github.io
 all_categories: [
-["leetcode","Leetcode practice","/posts/leetcode.html"], 
+["leetcode","Leetcode","/posts/leetcode.html"], 
 ["python","Python","/posts/python.html"],
 ["crawling","Crawling","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
