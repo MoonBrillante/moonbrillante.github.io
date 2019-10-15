@@ -15,7 +15,7 @@ all_categories: [
 ["crawling","Crawling","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
 ["etl", "ETL","/posts/etl.html"], 
-["machine learniing","Machine Learning","/posts/machine_learning.html"],
+["machine learning","Machine Learning","/posts/machine_learning.html"],
 ["probability statistics","Probability and Statistics","/posts/probability_statistics.html"],
 ["big data","Big Data","/posts/big_data.html"], 
 ["website","Website","/posts/web.html"],
