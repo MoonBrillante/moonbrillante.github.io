@@ -31,7 +31,7 @@ tags: [链接,友情,交换]
 </li>
 <li>
 <a href="http://www.leetcode.com/">
-  leetcode
+  Leetcode
 </a>
 </li>
 <li>
