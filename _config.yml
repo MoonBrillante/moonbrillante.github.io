@@ -10,11 +10,14 @@ name: "My Blog"
 url: moonbrillante.github.io
 domain: moonbrillante.github.io
 all_categories: [
-["leetcode","Leetcode practice","/posts/android.html"], 
-["python crawling","Python crawling","/posts/program.html"],
-["etl", "ETL","/posts/web.html"], 
-["machine learniing","Machine Learning","/posts/linux.html"],
-["big data","Big Data","/posts/read.html"], 
+["leetcode","Leetcode practice","/posts/leetcode.html"], 
+["python","Python","/posts/python.html"],
+["crawling","Crawling","/posts/crawling.html"],
+["data science","Data Science","/posts/data_science.html"],
+["etl", "ETL","/posts/etl.html"], 
+["machine learniing","Machine Learning","/posts/machine_learning.html"],
+["probability statistics","Probability and Statistics","/posts/probability_statistics.html"],
+["big data","Big Data","/posts/big_data.html"], 
 ["other","Others","/posts/other.html"],
 ["about","About","/about.html"]
 ]
