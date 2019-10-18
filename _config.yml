@@ -3,7 +3,7 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
+github: 
 author: ""
 email: 
 name: "My Blog"
