@@ -17,7 +17,7 @@ all_categories: [
 ["etl", "ETL","/posts/etl.html"], 
 ["machine learning","Machine Learning","/posts/machine_learning.html"],
 ["big data","Big Data","/posts/big_data.html"], 
-["website","Website","/posts/web.html"],
+["web","Website","/posts/web.html"],
 ["other","Others","/posts/other.html"],
 ["about","About","/about.html"],
 ]
