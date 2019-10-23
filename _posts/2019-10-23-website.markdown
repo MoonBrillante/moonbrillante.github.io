@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "web"
+category: "website"
 title:  Jupyter Notebook 右键失效
 tags: [Jupyter Notebook]
 ---
