@@ -1,1 +1,7 @@
-
+---
+layout: post
+category: "python"
+title:  "Day 2 廖雪峰 Python3 在线课程"
+tags: [python]
+---
+### Python基础
