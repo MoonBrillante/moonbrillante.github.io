@@ -12,7 +12,7 @@ domain: moonbrillante.github.io
 all_categories: [
 ["leetcode","Leetcode Practice","/posts/leetcode.html"], 
 ["python","Python","/posts/python.html"],
-["crawling","Crawling","/posts/crawling.html"],
+["web crawler","Web crawler","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
 ["etl", "ETL","/posts/etl.html"], 
 ["machine learning","Machine Learning","/posts/machine_learning.html"],
