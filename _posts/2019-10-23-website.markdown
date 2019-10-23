@@ -7,7 +7,7 @@ tags: [Jupyter Notebook]
 ###  Jupyter Notebook 右键失效
 今天打开Jupyter Notebook窗口时无法右键复制链接，解决方法， 右键点击Jupyter Notebook顶部菜单栏选择Properties,
 在打开的新窗口中Opciones de edicion--> 选中Modalidad de edicion rápida
- ![jupyter1](moonbrillante.github.io/my_picture/jupyter1.jpg)
+ ![jupyter1](moonbrillante.github.io/my_picture/jupyter1(1).jpg)
  
 
 
