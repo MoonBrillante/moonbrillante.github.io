@@ -10,15 +10,15 @@ name: "My Blog"
 url: moonbrillante.github.io
 domain: moonbrillante.github.io
 all_categories: [
-["leetcode","Leetcode Practice","/posts/leetcode.html"], 
+["leetcode","Leetcode刷题","/posts/leetcode.html"], 
 ["python","Python","/posts/python.html"],
-["web crawler","Web crawler","/posts/crawling.html"],
+["web crawler","Web爬虫","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
 ["etl", "ETL","/posts/etl.html"], 
 ["machine learning","Machine Learning","/posts/machine_learning.html"],
 ["big data","Big Data","/posts/big_data.html"], 
-["web","Website","/posts/web.html"],
-["other","Others","/posts/other.html"],
+["web","Web网站","/posts/web.html"],
+["other","其它","/posts/other.html"],
 ["about","About","/about.html"],
 ]
 paginate: 8
