@@ -1,8 +1,8 @@
 ---
 layout: post
 category: "python"
-title:  "list和tuple"
+title:  "Day4廖雪峰 Python3 在线课程"
 tags: [python]
 ---
 
-
+### list 和 tuple
