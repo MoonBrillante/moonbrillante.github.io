@@ -2,7 +2,7 @@
 layout: post
 category: "leetcode"
 title:  "从排序数组中删除重复项"
-tags: [阅读,人生]
+tags: [leetcode]
 ---
 ### 从排序数组中删除重复项
 
