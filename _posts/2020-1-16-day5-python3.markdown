@@ -4,7 +4,7 @@ category: "python"
 title:  "dic和set"
 tags: [python]
 ---
-###字典dic 与 集合set 
+### 字典dic 与 集合set 
 Python内置了字典：全称dictionary，在其他语言中也称为map，使用键-值（key-value）存储，具有极快的查找速度。
 <!-- more -->
 ```
@@ -51,7 +51,7 @@ False
 
 dict可以用在需要高速查找的很多地方，在Python代码中几乎无处不在，正确使用dict非常重要，dict的key必须是不可变对象。
 
-###set
+### set
 set和dict类似，也是一组key的集合，但不存储value。由于key不能重复，所以，在set中，没有重复的key。
 
 要创建一个set，需要提供一个list作为输入集合：
