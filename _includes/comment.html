@@ -1,9 +1,9 @@
-<div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 184; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: false
-    }
-</script>
-<script type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+{% if page.comments != false %}
+    <script>
+    var idcomments_acct = 'xxxx50b9b39';
+    var idcomments_post_id = '{{ page.url }}';
+    var idcomments_post_url;
+    </script>
+    <span id="IDCommentsPostTitle" style="display:none"></span>
+    <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+{% endif %}
