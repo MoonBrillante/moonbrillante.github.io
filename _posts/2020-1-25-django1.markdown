@@ -9,11 +9,11 @@ tags: [django]
 (Server --Pythonanywhere, python3.7   django 2, db-- MySQL)
 <!-- more -->
 
-在命令行里跑下面命令，创建一个项目:
+1. 在命令行里跑下面命令，创建一个项目:
 
 django-admin startproject mysite
 
-项目的结构:
+2. 项目的结构:
 ```
 mysite/
    manage.py
@@ -23,6 +23,7 @@ mysite/
        urls.py
        wsgi.py
 ```
+3.
 .manage.py 是与项目交互的命令行工具，它是一个简单的包装。
 
 
@@ -40,7 +41,7 @@ mysite/
 
 .mysite/wsgi.py：作为你的项目的运行在 WSGI 兼容的Web服务器上的入口。
 
-数据库MysQL
+4. 数据库MysQL
 
 ```
 DATABASES = {
