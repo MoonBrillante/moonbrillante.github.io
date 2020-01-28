@@ -55,5 +55,5 @@ python manage.py migrate
 
 {% endautoescap %}.
 
-or use "{{post.body | safe}}"
+or use {{post.body | safe}}
 ```
