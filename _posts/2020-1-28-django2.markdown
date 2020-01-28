@@ -41,14 +41,11 @@ class Post(models.Model):
 ```    
 ### 更新数据库收集静态文件
 ```
-python manage.py collectstatic
+<img src="/my_piture/django2.jpg" width="50%" alt="AltText" />
 
-python manage.py makemigrations blog
-
-python manage.py migrate
 ```
 ### 最后，django不能读ckeditor产生的html标签, 代替用print , 修改这个问题:
 ```
-<img src="/my_piture/img.jpg" width="50%" alt="AltText" />
+<img src="/my_piture/django1.jpg" width="50%" alt="AltText" />
 
 ```
