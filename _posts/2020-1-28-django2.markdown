@@ -1,0 +1,59 @@
+---
+layout: post
+category: "django"
+title:  "Day 2 Django install ckeditor"
+tags: [django]
+---
+### 打开命令行窗口:
+
+pip install --user django-ckeditor(if use python3.x , then pip3 install --user django-ckeditor)
+
+### mysite/settings.py file:
+<!-- more -->
+```
+INSTALLED_APPS = (
+                   ...
+                  'ckeditor',
+                  )
+
+CKEDITOR_UPLOAD_PATH = 'uploads/'
+CKEDITOR_RESTRICH_BY_USER = True
+CKEDITOR_CONFIGS = {
+           'default':{
+           'toolbar':'Advanced',
+           'width':800,
+           'height':300,
+},
+}
+```
+### mysite/urls.py
+```
+urlpatterns = [
+    ...
+    url('ckeditor/', include('ckeditor_uploader.urls')),
+]
+```
+###  mysite/blog/models.py
+```
+from ckeditor.fields import RichTextField
+class Post(models.Model):
+    body = models.TextField()-->change to body = RichTextField()
+```    
+### 更新数据库收集静态文件
+```
+python manage.py collectstatic
+
+python manage.py makemigrations blog
+
+python manage.py migrate
+```
+### 最后，django不能读ckeditor产生的html标签, 代替用print , 修改这个问题:
+```
+{% autoescape off%}
+
+{% post.content %}
+
+{% endautoescap %}
+
+or use {{post.body | safe}}
+```
