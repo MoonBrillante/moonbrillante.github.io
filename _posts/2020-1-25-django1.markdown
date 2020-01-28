@@ -6,7 +6,7 @@ tags: [django]
 ---
 ### 最近在学习Django by example 2，把学习过程中的点滴记录下来。(Server --Pythonanywhere, python3.7   django 2, db-- MySQL)
 <!-- more -->
-### 在命令行里跑下面命令，创建一个项目:
+在命令行里跑下面命令，创建一个项目:
 
 django-admin startproject mysite
 
