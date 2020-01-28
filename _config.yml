@@ -18,7 +18,7 @@ all_categories: [
 ["machine learning","Machine Learning","/posts/machine_learning.html"],
 ["big data","Big Data","/posts/big_data.html"], 
 ["web","Web网站","/posts/web.html"],
-["other","Django","/posts/other.html"],
+["django","Django","/posts/django.html"],
 ["about","About","/about.html"],
 ]
 paginate: 8
