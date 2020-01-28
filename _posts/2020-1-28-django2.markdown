@@ -49,11 +49,11 @@ python manage.py migrate
 ```
 ### 最后，django不能读ckeditor产生的html标签, 代替用print , 修改这个问题:
 ```
-{% autoescape off%}
+({% autoescape off%})
 
 {% post.content %}
 
-{% endautoescap %}
+({% endautoescap %})
 
 or use {{post.body | safe}}
 ```
