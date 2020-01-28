@@ -6,12 +6,12 @@ tags: [django]
 ---
 ### 最近在学习Django by example 2，把学习过程中的点滴记录下来。(Server --Pythonanywhere, python3.7   django 2, db-- MySQL)
 
-在命令行里跑下面命令，创建一个项目:
-'''
+## 在命令行里跑下面命令，创建一个项目:
+
 django-admin startproject mysite
-'''
+
 项目的结构:
-'''
+```
 mysite/
    manage.py
    mysite/
@@ -19,23 +19,27 @@ mysite/
        settings.py
        urls.py
        wsgi.py
-'''
+```
 .manage.py 是与项目交互的命令行工具，它是一个简单的包装。
+
 
 .里面一层的 mysite/ 目录包含你的项目，它是一个纯 Python 包。它的名字就是当你引用它内部任何东西时需要用到的 Python 包名。 (比如 mysite.urls).
 
+
 .mysite/__init__.py：一个空文件，告诉 Python 这个目录应该被认为是一个 Python 包。
+
 
 .mysite/settings.py：Django 项目的配置文件。
 
+
 .mysite/urls.py：Django 项目的 URL 声明，
+
 
 .mysite/wsgi.py：作为你的项目的运行在 WSGI 兼容的Web服务器上的入口。
 
 ### 数据库MysQL
 
 ```
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -47,5 +51,4 @@ DATABASES = {
 
     }
 }
-
-´´´
+```
