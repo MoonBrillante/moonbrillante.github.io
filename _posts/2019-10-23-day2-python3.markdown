@@ -1,10 +1,10 @@
 ---
 layout: post
 category: "python"
-title:  "Day 2 廖雪峰 Python3 在线课程"
+title:  "Day 2 Python3 在线课程"
 tags: [python]
 ---
-### Python基础
+### 廖雪峰 Python3 在线课程 --Python基础
 数据类型
 
 整数
