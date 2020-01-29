@@ -1,10 +1,10 @@
 ---
 layout: post
 category: "python"
-title:  "Day 1 廖雪峰 Python3 在线课程"
+title:  "Day 1 Python3 在线课程"
 tags: [python]
 ---
-### Python简介
+### 廖雪峰 Python3 在线课程Python简介
 
 Python是Guido van Rossum在1989年圣诞节期间，编写的一个编程语言。
 
