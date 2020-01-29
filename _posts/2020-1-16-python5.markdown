@@ -1,10 +1,10 @@
 ---
 layout: post
 category: "python"
-title:  "Day5 Python3 在线课程"
+title:  "Day5 Python3 字典dic 与 集合set"
 tags: [python]
 ---
- ### 廖雪峰 Python3 在线课程 -- 字典dic 与 集合set 
+### 廖雪峰 Python3 在线课程 -- 字典dic 与 集合set 
 Python内置了字典：全称dictionary，在其他语言中也称为map，使用键-值（key-value）存储，具有极快的查找速度。
 <!-- more -->
 ```
