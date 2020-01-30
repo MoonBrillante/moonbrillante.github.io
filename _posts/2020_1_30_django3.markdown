@@ -1,0 +1,31 @@
+---
+layout: post
+category: "django"
+title:  "Day 3 Django Create a home page content"
+tags: [django]
+---
+### Create home page display content
+
+1. go to blog/views.py
+
+add a function:
+```
+def home(request):
+
+    return HttpResponse('Hello Django')
+```
+2. go to mysite/url.py
+
+add:
+```
+from blog import views
+
+urlpattern=[
+
+...
+
+path('', views.home, name = 'home'),
+
+]
+```
+home page will show 'Hello Django'
