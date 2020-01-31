@@ -44,6 +44,6 @@ class Post(models.Model):
 ### 最后，django不能读ckeditor产生的html标签, 代替用print , 修改这个问题:
 <img src="https://moonbrillante.github.io/my_piture/django1.jpg">
 <figure>
-<a><img src="{{site.url}}/my_picture/django1.jpg"></a>
+<img src="my_picture/django1.jpg">
 </figure>
 
