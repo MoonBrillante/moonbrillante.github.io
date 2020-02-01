@@ -1,12 +1,11 @@
 <!-- Html Elements for Search -->
-<form>
-<div class="input-group">
-<input type="text" class="form-control" placeholder="search...">
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
 <ul id="results-container"></ul>
 </div>
-</form>
+
 <!-- Script pointing to search-script.js -->
-<script src="js/search.js" type="text/javascript"></script>
+<script src="/path/to/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
@@ -16,6 +15,8 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
+
 <!--    
   <form action="https://www.egeso.com/" method="get">
               <div class="input-group">
