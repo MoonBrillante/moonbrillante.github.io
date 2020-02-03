@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "django"
-title:  "Day 1 Django Create a Blog"
+title:  "Django1 Create a Blog"
 tags: [django]
 ---
  
