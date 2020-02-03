@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "django"
-title:  "Day 2 Django install ckeditor"
+title:  "Django2 install ckeditor"
 tags: [django]
 ---
 ### 打开命令行窗口:
