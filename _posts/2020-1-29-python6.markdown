@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "python"
-title:  "Day6 Python3 类"
+title:  "Python(6) 类"
 tags: [python]
 ---
 ### python3.8.1 文档 --类 (https://docs.python.org/zh-cn/3/tutorial/classes.html)
