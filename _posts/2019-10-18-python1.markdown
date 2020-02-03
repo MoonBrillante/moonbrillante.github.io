@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "python"
-title:  "Day 1 Python3 简介"
+title:  "Python(1)简介"
 tags: [python]
 ---
 ### 廖雪峰 Python3 在线课程 -- Python简介(https://www.liaoxuefeng.com/wiki/1016959663602400)
