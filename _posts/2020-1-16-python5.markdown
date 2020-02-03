@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "python"
-title:  "Day5 Python3 字典dic 与 集合set"
+title:  "Python(5) 字典dic 与 集合set"
 tags: [python]
 ---
 ### 廖雪峰 Python3 在线课程 -- 字典dic 与 集合set 
