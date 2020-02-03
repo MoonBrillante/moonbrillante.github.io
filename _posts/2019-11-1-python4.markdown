@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "python"
-title:  "Day4 Python3 list 和 tuple"
+title:  "Python(4) list 和 tuple"
 tags: [python]
 ---
 
