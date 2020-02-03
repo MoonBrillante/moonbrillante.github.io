@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "python"
-title:  "Day 3 Python3 字符和编码"
+title:  "Python(3)字符和编码"
 tags: [python]
 ---
 ### 廖雪峰 Python3 在线课程 -- 字符和编码
