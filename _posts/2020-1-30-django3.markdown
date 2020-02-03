@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "django"
-title:  "Day 3 Django Create a home page content"
+title:  "Django3 Create a home page content"
 tags: [django]
 ---
 ### Create home page display content
