@@ -14,7 +14,7 @@ all_categories: [
 ["python","Python","/posts/python.html"],
 ["web crawler","Web爬虫","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
-["etl", "ETL","/posts/etl.html"], 
+["etl", "R","/posts/etl.html"], 
 ["machine learning","Machine Learning","/posts/machine_learning.html"],
 ["big data","Big Data","/posts/big_data.html"], 
 ["web","Web网站","/posts/web.html"],
