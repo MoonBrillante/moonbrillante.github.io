@@ -19,7 +19,7 @@ install.packages("ggplot")
 ![AltText](/moonbrillante.github.io/my_picture/worldhappiness001.JPG)
 ### 最后，django不能读ckeditor产生的html标签, 代替用print , 修改这个问题:
 ![AltText](/my_picture/django1.jpg)
-![Alt Text](https://github.com/MoonBrillante/moonbrillante.github.io/tree/master/my_picture/worldhappiness001.jpg)
+![Alt Text](https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG)
 
 ```
 ```
