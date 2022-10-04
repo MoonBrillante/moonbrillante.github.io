@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "Google Data Analytics Capstone Case Study 2 - World Happiness Report"
+title:  "Google Data Analytics Capstone Case Study 2"
 tags: [R]
 ---
 
