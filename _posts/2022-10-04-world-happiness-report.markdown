@@ -6,7 +6,8 @@ tags: [R]
 ---
 
 
-<img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness001.JPG">
+<img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness0011.JPG">
+<img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness0012.JPG">
 <img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness002.JPG" >
 <img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness003.JPG" >
 <img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness004.JPG" >
