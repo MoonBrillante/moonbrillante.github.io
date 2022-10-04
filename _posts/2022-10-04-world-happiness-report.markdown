@@ -34,4 +34,4 @@ install.packages("ggplot")
 ```
 ```
 
-![AltText](/my_picture/django2.jpg)
+
