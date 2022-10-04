@@ -15,7 +15,7 @@ install.packages("tidyverse")
 install.packages("lubridate ")
 install.packages("ggplot")
 ```
-<img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG" >
+<img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG" alt="Girl in a jacket"  >
 
 ```
 ```
