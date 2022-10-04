@@ -16,7 +16,7 @@ install.packages("lubridate ")
 install.packages("ggplot")
 ```
 ![Alt Text](https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG)
-<img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG" alt="Girl in a jacket" width="750" height="550">
+<img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.JPG" alt="Girl in a jacket" width="730" height="530">
 
 ```
 ```
