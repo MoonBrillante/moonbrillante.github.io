@@ -15,8 +15,8 @@ install.packages("tidyverse")
 install.packages("lubridate ")
 install.packages("ggplot")
 ```
-<img src="/my_picture/worldhappiness001.jpg"/>
-![Alt Text](/my_picture/worldhappiness001.jpg)
+
+![Alt Text](https://github.com/MoonBrillante/moonbrillante.github.io/tree/master/my_picture/worldhappiness001.jpg)
 
 ```
 ```
