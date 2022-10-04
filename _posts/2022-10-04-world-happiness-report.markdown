@@ -4,8 +4,8 @@ category: "r"
 title:  "Google Data Analytics Capstone Case Study 2 - World Happiness Report"
 tags: [R]
 ---
-![alt text](/my_picture/worldhappiness001.jpg)
-<img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness001.jpg" alt="Girl in a jacket" width="" height="">
+
+<img src="https://raw.githubusercontent.com/MoonBrillante/moonbrillante.github.io/master/my_picture/worldhappiness001.JPG" alt="Girl in a jacket" width="" height="">
 <img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness002.jpg" alt="Girl in a jacket" width="" height="">
 <img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness003.jpg" alt="Girl in a jacket" width="" height="">
 <img src="https://github.com/MoonBrillante/moonbrillante.github.io/raw/master/my_picture/worldhappiness004.jpg" alt="Girl in a jacket" width="" height="">
