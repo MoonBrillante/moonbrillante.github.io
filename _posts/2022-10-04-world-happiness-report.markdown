@@ -15,7 +15,7 @@ install.packages("tidyverse")
 install.packages("lubridate ")
 install.packages("ggplot")
 ```
-![AltText](/my_picture/worldhappiness.jpg)
+![AltText](/my_picture/worldhappiness001.jpg)
 
 ```
 ```
