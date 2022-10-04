@@ -16,7 +16,7 @@ install.packages("lubridate ")
 install.packages("ggplot")
 ```
 <img src="/my_picture/worldhappiness001.jpg"/>
-![AltText](/my_picture/worldhappiness001.jpg)
+![Alt Text]("/my_picture/worldhappiness001.jpg")
 
 ```
 ```
