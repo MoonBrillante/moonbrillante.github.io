@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "Google Data Analytics Professional Certificate"
+title:  "Google Data Analytics Lesson-3"
 tags: [R]
 ---
 
