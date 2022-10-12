@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "GGPplot Visualization Aesthetics 1 "
+title:  "GGPlot Visualization Aesthetics 1 "
 tags: [R]
 ---
 
