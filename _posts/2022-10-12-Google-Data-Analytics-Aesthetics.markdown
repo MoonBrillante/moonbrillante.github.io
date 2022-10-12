@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "R"
+category: "r"
 title:  "GGPlot Visualization Aesthetics 2 "
 tags: [R]
 ---
