@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "Google Data Analytics Lesson 3 Change Data"
+title:  "Google Data Analytics Lesson 3 Change Your Data"
 tags: [R]
 ---
 
