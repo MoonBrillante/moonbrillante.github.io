@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "Google Data Analytics Lesson 2"
+title:  "Google Data Analytics Lesson 2: Aesthetics 1"
 tags: [R]
 ---
 
