@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "r"
-title:  "GGPlot Visualization Aesthetics 2 "
+title:  "Lesson 3 Aesthetics and Visualization "
 tags: [R]
 ---
 
