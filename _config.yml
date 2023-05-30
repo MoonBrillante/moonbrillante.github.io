@@ -15,7 +15,7 @@ all_categories: [
 ["web crawler","Web爬虫","/posts/crawling.html"],
 ["data science","Data Science","/posts/data_science.html"],
 ["r", "R","/posts/r.html"], 
-["machine learning","Machine Learning","/posts/machine_learning.html"],
+["JavaScript","JavaScript","/posts/javascript.html"],
 ["big data","Big Data","/posts/big_data.html"], 
 ["web","Web网站","/posts/web.html"],
 ["django","Django","/posts/django.html"],
