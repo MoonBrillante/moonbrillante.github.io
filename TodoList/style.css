@@ -1,0 +1,85 @@
+/* CSS */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(45deg, #ae64f3 20%, #0c00ff 90%);
+}
+
+.notepad {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 500px;
+    border-radius: 8px;
+}
+
+.notepad h1 {
+    font-size: 45px;
+}
+
+/* Form and button styles */
+.form-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#taskInput {
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+#addTask {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 120px;
+    font-size:15px;
+    font-weight: bold;
+}
+
+/* Task list styles */
+#todoList {
+    margin-top: 20px;
+}
+
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    background-color: #f9f9f9;
+}
+
+.actions button {
+    margin-left: 5px;
+    padding: 3px 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#clearButton {
+    margin-top: 10px;
+    background-color: #007bff;
+    padding: 8px 15px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
