@@ -81,7 +81,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 950px;
+    max-width: 935px;
     overflow: hidden;
 }
 
@@ -99,7 +99,7 @@ main {
 .project-wrapper {
     margin: 0 auto;
     padding: 20px;
-    max-width: 1280px;
+    max-width: 935px;
 }
 
 .projects-section-header {
@@ -117,7 +117,7 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     column-gap: 30px;
     margin: 0 auto;
-    max-width: 1280px;
+    max-width: 935px;
 }
 
 h3~p {
