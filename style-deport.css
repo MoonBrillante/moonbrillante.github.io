@@ -213,7 +213,7 @@ a:hover {
 /* Olimpico */
 .olimpico {
 	height:400px;
-	background-image: url(img/olimpico.jpg);
+	background-image: url(assets/olimpico.jpg);
 	background-position: center;
 	background-size: cover;
 	display:flex;
