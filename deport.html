@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>NATACIÓN DEPORTE OLÍMPICO</title>
+	<link rel="stylesheet" href="style-deport.css">
+</head>
+
+<body>
+	<header class="header">
+		<div class="container">
+			<div class="site">
+				<ul>
+					<li>
+						<a href="#"><img src="./assets/olympic-circle.png" alt="logo"></a>
+					</li>
+				</ul>
+				<div>
+					<p class="name">NATACIÓN DEPORTE OLÍMPICO</p>
+					<p class="desc">Deportes en piscina olímpica</p>
+				</div>
+			</div>
+			<nav class="nav">
+				<ul>
+					<li><a href="#">Deportes en piscina</a></li>
+					<li><a href="#">Waterpolo y Saltos</a></li>
+					<li><a href="#" class="btn">CONTACTOS</a></li>
+				</ul>
+			</nav>
+			<button type="button" class="nav-button" onClick="navFunc()">
+				<span class="sr-only">MENU</span>
+			</button>
+		</div>
+	</header>
+	<section class="olimpico">
+		<div class="headline">
+			<div class="container">
+				<h1 font-size="30px">NATACIÓN DEPORTE OLÍMPICO</h1>
+				<p>Soprte sobre las modalidades más populares</p>
+			</div>
+		</div>
+	</section>
+	<section class="message">
+		<div class="container">
+			<h2>Desde 1896 en Atenas deporte <br>olímpicoEspecialidades</h2>
+			<p>Forma parte de las disciplinas olímpicas desde su inicio, en Atenas 1896,. La participación de nadadores
+				al principio estaba limitada a los hombre. En 1912 las mujeres empezaron a participar</p>
+		</div>
+	</section>
+	<section class="service">
+		<div class="container">
+			<h2>ESPECIALIDADES DESTACADAS</h2>
+			<p>Nuestro Perfiles</p>
+			<div class="features">
+				<article class="feature artistica">
+					<figure><img src="assets/natacion-artistica.jpg" alt="natacion-artistica"></figure>
+					<h3>Natación Artística<br> Descripción</h3>
+					<p>Consiste en la realización de rutinas de bailes en piscina. Se ejecuta con música. Combina
+						natación, gimnasia y danza. Se realiza de forma individual, duos o grupos</p>
+					<a href="natacion-artistica.html" class="btn">Historia</a>
+				</article>
+				<article class="feature piscina">
+					<figure><img src="assets/natacion-en-piscina.jpg" alt="waterball"></figure>
+					<h3>Natación en Piscina<br> Descripción</h3>
+					<p> Abarca diversas modalidades de carreras en picinas. Pueden ser individuales o por relevos. Hay
+						pruebas masculinas y femeninas</p>
+					<a href="natacion-en-piscina.html" class="btn">Historia</a>
+				</article>
+
+				<article class="feature waterpolo">
+					<figure><img src="assets/waterball.jpg" alt="waterball"></figure>
+					<h3>Waterpolo y Saltos<br> Descripción</h3>
+					<p>El Waterpolo es un deporte por equipos. Se juega con balón. Hay que tratar de meter goles en la
+						portería contraria. Los Saltos de trampolín se realizan desde diversas alturas.</p>
+					<a href="#" class="btn">Historia</a>
+				</article>
+			</div>
+		</div>
+	</section>
+	<section class="contact">
+		<div class="container">
+			<div class="text">
+				<h2>Contacto</h2>
+				<p>Si usted necesita información adicional,<br>
+					por favor siéntase libre de para contactarnos.<br>
+					Son bienvenidos los comentarios, sugerencias,<br>
+					recomendaciones, preguntas que usted tenga.</p>
+			</div>
+			<form class="form" action="#">
+				<p>
+					<label>
+						<span class="sr-only">Nombre</span>
+						<input type="text" name="nombre" placeholder="Nombre">
+					</label>
+				</p>
+				<p>
+					<label>
+						<span class="sr-only">Email</span>
+						<input type="email" name="email" placeholder="Email">
+					</label>
+				</p>
+				<p>
+					<label>
+						<span class="sr-only">Mensaje</span>
+						<textarea name="msg" placeholder="Message"></textarea>
+					</label>
+				</p>
+				<p>
+					<input type="submit" value="ENVIAR" class="btn">
+				</p>
+			</form>
+		</div>
+	</section>
+	<footer class="footer">
+		<div class="container">
+			<div class="info">
+				<div class="site">
+					<img src="assets/olympic-circle.png" alt="logo">
+					<div>
+						<p class="name">Natación Deporte Olímpico</p>
+					</div>
+				</div>
+				<p class="add">
+					C/ Las Encinas. 5ª Derecha<br>
+					28235, Los Morales<br>
+					+34-675-34-48-92
+				</p>
+			</div>
+			<ul class="sns">
+				<li><a href="#"><img src="img/twitter.png" alt="Twitter"></a></li>
+				<li><a href="#"><img src="img/facebook.png" alt="Facebook"></a></li>
+				<li><a href="#"><img src="img/instagram.png" alt="Instagram"></a></li>
+			</ul>
+		</div>
+	</footer>
+	<script>
+		function navFunc() {
+			document.querySelector('html').classList.toggle('open');
+		}
+	</script>
+</body>
+
+</html>
